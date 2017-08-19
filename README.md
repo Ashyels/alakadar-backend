@@ -1,2 +1,5 @@
-# WebDev_Alakadar_Backend
-Ini adalah back end (menggunakan Django Rest framework &amp; API) dari project alakadar yang dipresentasikan pada hari Kamis, 19 Januari 2017 di ruang Lab, Jurusan Teknik Informatika, Polban
+&#x1F4CC; Alakadar [Backend]
+===================
+- Type : small project
+- Status : &#x1F494; (not active)
+- Remarks : "my team project create a web using backend and frontend integration"
